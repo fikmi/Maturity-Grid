@@ -1,0 +1,3 @@
+team	axis	status	created_at	ended_at
+Team Alpha	Conception	in_progress	2024-03-01T12:00:00	2024-03-02T09:00:00
+Team Beta	Test	pass	2024-03-05T15:00:00	2024-03-05T15:20:00

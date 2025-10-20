@@ -1,0 +1,4 @@
+team;axe;metric;status;created_at;ended_at;value
+Team Alpha;Développement;pull_request;done;2024-03-02 08:00;2024-03-04 16:00;8
+Team Beta;Test;test_case;fail;2024-03-07 09:00;2024-03-07 09:45;1
+Team Beta;Release;incident;done;2024-03-10 10:15;2024-03-11 12:00;2
