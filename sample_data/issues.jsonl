@@ -1,0 +1,4 @@
+{"team": "Team Alpha", "axis": "Conception", "metric": "Story", "status": "ready", "created_at": "2024-03-01T09:00:00Z", "ended_at": "2024-03-03T12:00:00Z"}
+{"equipe": "Team Beta", "axe": "Développement", "kpi": "commit", "status": "in_progress", "created_at": "2024-03-05T10:00:00Z", "ended_at": "2024-03-08T18:00:00Z", "value": 13}
+{"squad": "Team Alpha", "category": "Test", "type": "suite", "result": "pass", "created": "2024-03-06T11:30:00Z", "closed": "2024-03-06T13:00:00Z"}
+{"team": "Team Beta", "axis": "Release", "metric": "deploy", "status": "done", "created_at": "2024-03-09T07:00:00Z", "ended_at": "2024-03-09T09:30:00Z"}
